@@ -1,0 +1,24 @@
+.parent {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(75, 75, 186);
+    margin-top: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content:space-evenly;
+}
+.box{
+    width: 20%;
+    height: 200px;
+    color: black;
+    border: 2px solid black;
+    background-color:rgb(163, 142, 229) ;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 30px;
+    padding-left: 20px;
+   
+}
+
+   
+

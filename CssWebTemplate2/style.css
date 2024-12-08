@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background: #f9f9f9;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #8a44cc;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .auth a {
+    text-decoration: none;
+    margin-right: 10px;
+    color: #333;
+  }
+  
+  .auth button {
+    padding: 10px 15px;
+    border: none;
+    background: #8a44cc;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .hero {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+  }
+  
+  .content h1 {
+    font-size: 2rem;
+  }
+  
+  .buttons button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background: #8a44cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .images img {
+    width: 200px;
+    margin: 10px;
+  }

@@ -1,0 +1,39 @@
+
+/* h1{
+    color:greenyellow;
+    text-align: center;
+
+} */
+/* 
+h1{
+    color:green ;
+    text-align: center;
+    width: 500px;
+    border-top: 1px solid red;
+    border-bottom: 1px solid red;
+} */
+
+
+
+
+#first{
+    color:green;
+    
+}
+#second{
+    color:red
+}
+
+/* TagName */
+/* id=> #  */
+/* . => class */
+
+.text-danger{
+    color:red;
+}
+.text-success{
+    color:green;
+}
+.text-dec-underline{
+    text-decoration: underline;
+}

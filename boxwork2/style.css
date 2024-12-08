@@ -1,0 +1,18 @@
+.box{
+    border:1px solid black;
+}
+.box1{
+    background-color: green;
+    width:80%;
+    height:100px;
+}
+.box2{
+    background-color: blue;
+    width:50%;
+    height:100px;
+}
+.box3{
+    background-color: yellow;
+    width:40%;
+    height:100px;
+}
